@@ -1,0 +1,2 @@
+# Descripción
+Dada una cantidad de n numeros, mostrarlos en pantalla a excepción de aquellos que sean divisibles entre 3 y/o 5. Si el número es divisible entre 3 y 5 se pondrá en su lugar  la palabra "FizzBuzz", si solo es divisible entre 3 se pondrá en su lugar "Fizz", si solo es divisible entre 5 se pondrá en su lugar "Buzz", si no es divisible entre ninguno de los dos se pondrá el número original.
